@@ -1,0 +1,12 @@
+name: DesigningDataProducts
+title: DesigningDataProducts
+username:
+account: ckriefall
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 333889
+bundleId: 1346438
+url: https://ckriefall.shinyapps.io/DesigningDataProducts/
+when: 1525052616.50122
+asMultiple: FALSE
+asStatic: FALSE
